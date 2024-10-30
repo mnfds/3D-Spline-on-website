@@ -1,6 +1,6 @@
 # Simple 3D Assets Website
 
-Welcome to my first project where I explore the exciting world of 3D web design! This website showcases simple yet captivating 3D assets, providing users with an engaging and interactive experience.
+Welcome to my first project where I explore the exciting world of 3D web design! This website showcases simple yet captivating 3D assets created using Spline, providing users with an engaging and interactive experience.
 
 ## 🚀 Features
 
@@ -12,17 +12,10 @@ Welcome to my first project where I explore the exciting world of 3D web design!
 ## 🎨 Technologies Used
 
 - **HTML5**: For the structure of the website.
-- **Tailwind**: For styling and layout.
-- **Spline.design**: For rendering 3D graphics in the browser.
+- **Tailwind CSS**: For modern and responsive styling.
+- **Spline**: For creating and integrating interactive 3D objects.
 
 ## 📸 Screenshots
 
 ![Screenshot 1](link-to-your-screenshot1.png)
-
-## 🛠 Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-3d-assets-website.git
+![Screenshot 2](link-to-your-screenshot2.png)
