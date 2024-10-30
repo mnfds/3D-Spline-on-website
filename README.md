@@ -5,15 +5,22 @@ Welcome to my first project where I explore the exciting world of 3D web design!
 ## 🚀 Features
 
 - **Interactive 3D Models**: Experience simple 3D assets that users can interact with.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
 - **User-Friendly Interface**: Intuitive navigation for a seamless browsing experience.
-- **Lightweight & Fast**: Efficient loading times to enhance user engagement.
+- **Audio Loop**: Enjoy a seamless audio loop that complements the visuals and enhances the overall ambiance.
 
 ## 🎨 Technologies Used
 
 - **HTML5**: For the structure of the website.
 - **Tailwind CSS**: For modern and responsive styling.
 - **Spline**: For creating and integrating interactive 3D objects.
+
+## 🌐 3D Asset
+
+- [View 3D Asset](https://app.spline.design/community/file/84445a36-0953-4165-b6ff-97f5ecb4c3f9)
+
+## 🎵 Audio Loop
+
+- [Listen to the Audio Loop](https://youtu.be/slt_Bav8nsQ?si=YaPyheifu-pr0gtp)
 
 ## 📸 Screenshots
 ![webby-1](https://github.com/user-attachments/assets/26eac460-55fc-4d91-a365-cf45694808c4)
