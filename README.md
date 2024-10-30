@@ -16,6 +16,5 @@ Welcome to my first project where I explore the exciting world of 3D web design!
 - **Spline**: For creating and integrating interactive 3D objects.
 
 ## 📸 Screenshots
-
-![Screenshot 1](link-to-your-screenshot1.png)
-![Screenshot 2](link-to-your-screenshot2.png)
+![webby-1](https://github.com/user-attachments/assets/26eac460-55fc-4d91-a365-cf45694808c4)
+![webby-2](https://github.com/user-attachments/assets/695b827d-6515-4b5c-8423-410e6af829a2)
