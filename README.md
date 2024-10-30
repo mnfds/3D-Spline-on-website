@@ -1,6 +1,6 @@
 # Simple 3D Assets Website
 
-Welcome to my first project where I explore the exciting world of 3D web design! This website showcases simple yet captivating 3D assets created using Spline, providing users with an engaging and interactive experience.
+Welcome to my first project where I explore the exciting world of 3D web design! This website showcases simple yet captivating 3D assets that I created myself using Spline, providing users with an engaging and interactive experience.
 
 ## 🚀 Features
 
